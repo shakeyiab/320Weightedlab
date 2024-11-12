@@ -1,0 +1,2 @@
+import todo from '/comp/todo.mjs'
+import todo from '../comp/todo.jsx'
